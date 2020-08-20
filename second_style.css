@@ -96,6 +96,11 @@ body{
 	width: 100%;
 	height: 100%;
 }
+.prd_a{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+}
 .prd_img{
 	width: 100%;
 	height: 100%;

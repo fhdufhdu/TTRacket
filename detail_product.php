@@ -8,7 +8,7 @@
 		<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css">
 		<link href="second_style.css" rel="stylesheet">
 		<script src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
-		<script src="./test.js"></script>
+		<script src="./detail.js"></script>
 		<title>TTRACKET</title>
 				<!--jQuery 설정-->
 		<!--<link rel="stylesheet" href="https://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />-->
@@ -35,7 +35,9 @@
 		</div>
 		<div class="prd_wrap">
 			<div class="prd_img_div">
-				<img class="prd_img" src="">
+				<a class="img_a" href="">
+					<img class="prd_img" src="">
+				</a>
 			</div>
 			<div class="prd_info">
 				<div class="helper"></div>

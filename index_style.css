@@ -102,7 +102,9 @@ input{
 }
 .prd_a{
 	display: inline-block;
+	border: 1px solid #f3f3f3;
 	height: auto;
+	float: left;
 }
 .prd_list{
 	display: inline-block;
@@ -114,7 +116,6 @@ input{
 .prd_li{
 	display: inline-block;
 	height: auto;
-	border: 1px solid #f3f3f3;
 	float: left;
 }
 .prd_wrap{
