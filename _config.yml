@@ -1,0 +1,7 @@
+# Jekyll configuration
+markdown: kramdown
+# kramdown : markdown의 개조판.
+# markdown에서 불편한 사항을 개선한 형태.
+
+future: true
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
